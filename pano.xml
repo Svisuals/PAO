@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18080" appversion="6.1.13" start="node1">
+  <panorama hideabout="1" id="node1">
+    <input width="1520" height="1520" levelbias="0.400" leveltilesize="3048" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="1520" height="1520" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-148" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata info="" customnodeid="" tags="Fotos 360|Térreo" title="QUARTO" description="" author="" source="" datetime="2023:04:08 10:18:46" comment="" copyright="" nodeid="node1" heading="-148" latitude="-23.63131512" longitude="-46.69925917" altitude="740.00">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="inf" x="nan" y="nan" x_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="inf" x="nan" y="nan" x_floorplan_percent="inf"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundalpha="1" wordwrap="1" height="20" border="1" enabled="1" borderalpha="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" textalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot pan="-159.91" skinid="ht_node" target="174.1/-7.2/70.0" title="PASSO COZINHA" description="" distance="2.75832" url="{node2}" id="Point01" tilt="-2.96"/>
+      <hotspot pan="-356.59" skinid="ht_video_file" target="" title="" description="" url="media/20230703_215302_494.mp4" id="Filme" tilt="8.17"/>
+    </hotspots>
+    <media>
+      <sound pan="-210.740" nodechangekeep="0" mode="2" loop="-1" level="1.000" field="90.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000" id="Element01" tilt="10.680" tiltsize="10.000">
+        <source url="media/Audio2Começo.mp3"/>
+      </sound>
+      <sound pan="-355.890" nodechangekeep="0" mode="2" loop="-1" level="0.300" field="90.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000" id="Audio1" tilt="15.350" tiltsize="10.000">
+        <source url="media/Realizer.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" blendtime="1" zoomoutpause="1" softedge="0" zoomout="0" blendcolor="0x000000" enabled="1" zoomafteroutfov="20" zoomspeed="2" zoomin="0" zoomfov="20" type="crossdissolve"/>
+    <autorotate speed="0.200" startloaded="0" returntohorizon="0.000" nodefilter="" enabled="1" nodedelay="0.00" delay="8.00" useanimation="0" noderandom="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" rubberband="0" simulatemass="1" hideabout="1" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" lockedmouse="0" invertwheel="0" lockedwheel="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input width="1520" height="1520" levelbias="0.400" leveltilesize="3048" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="1520" height="1520" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-155" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata info="" customnodeid="" tags="Fotos 360|Térreo" title="PASSO COZINHA" description="" author="" source="" datetime="2023:04:08 10:21:14" comment="" copyright="" nodeid="node2" heading="-155" latitude="-23.63129079" longitude="-46.69925389" altitude="740.00">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="inf" x="nan" y="nan" x_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="inf" x="nan" y="nan" x_floorplan_percent="inf"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundalpha="1" wordwrap="1" height="20" border="1" enabled="1" borderalpha="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" textalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot pan="-182.79" skinid="ht_node" target="172.5/-5.0/70.0" title="COZINHA" description="" distance="2.32466" url="{node3}" id="Point01" tilt="-3"/>
+      <hotspot pan="-347.11" skinid="ht_node" target="3.3/1.0/80.9" title="QUARTO" description="" distance="2.75832" url="{node1}" id="Point02" tilt="3.5"/>
+    </hotspots>
+    <media>
+      <sound pan="-210.740" nodechangekeep="0" mode="2" loop="-1" level="1.000" field="90.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000" id="Element01" tilt="10.680" tiltsize="10.000">
+        <source url="media/Audio2Começo.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" blendtime="1" zoomoutpause="1" softedge="0" zoomout="0" blendcolor="0x000000" enabled="1" zoomafteroutfov="20" zoomspeed="2" zoomin="0" zoomfov="20" type="crossdissolve"/>
+    <autorotate speed="0.200" startloaded="0" returntohorizon="0.000" nodefilter="" enabled="1" nodedelay="0.00" delay="8.00" useanimation="0" noderandom="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" rubberband="0" simulatemass="1" hideabout="1" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" lockedmouse="0" invertwheel="0" lockedwheel="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input width="1520" height="1520" levelbias="0.400" leveltilesize="3048" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="1520" height="1520" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-141" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata info="" customnodeid="" tags="Fotos 360|Térreo" title="COZINHA" description="" author="" source="" datetime="2023:04:08 10:24:42" comment="" copyright="" nodeid="node3" heading="-141" latitude="-23.63127452" longitude="-46.69923956" altitude="738.00">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="inf" x="nan" y="nan" x_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="inf" x="nan" y="nan" x_floorplan_percent="inf"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundalpha="1" wordwrap="1" height="20" border="1" enabled="1" borderalpha="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" textalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot pan="-20.48" skinid="ht_node" target="13.2/1.9/70.0" title="PASSO COZINHA" description="" distance="2.32466" url="{node2}" id="Point01" tilt="3.44"/>
+      <hotspot pan="-198.05" skinid="ht_node" target="173.1/-9.7/70.0" title="PASSO ENTRADA" description="" distance="1.93842" url="{node4}" id="Point02" tilt="-2.75"/>
+    </hotspots>
+    <media>
+      <sound pan="-210.740" nodechangekeep="0" mode="2" loop="-1" level="1.000" field="90.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000" id="Element01" tilt="10.680" tiltsize="10.000">
+        <source url="media/Audio2Começo.mp3"/>
+      </sound>
+      <sound pan="-316.260" nodechangekeep="0" mode="2" loop="-1" level="0.300" field="90.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000" id="Audio2" tilt="19.980" tiltsize="10.000">
+        <source url="media/skin_snd_atmospheric-ambient-142023.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" blendtime="1" zoomoutpause="1" softedge="0" zoomout="0" blendcolor="0x000000" enabled="1" zoomafteroutfov="20" zoomspeed="2" zoomin="0" zoomfov="20" type="crossdissolve"/>
+    <autorotate speed="0.200" startloaded="0" returntohorizon="0.000" nodefilter="" enabled="1" nodedelay="0.00" delay="8.00" useanimation="0" noderandom="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" rubberband="0" simulatemass="1" hideabout="1" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" lockedmouse="0" invertwheel="0" lockedwheel="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input width="1520" height="1520" levelbias="0.400" leveltilesize="3048" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="1520" height="1520" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-138" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata info="" customnodeid="" tags="Fotos 360|Térreo" title="PASSO ENTRADA" description="" author="" source="" datetime="2023:04:08 10:26:05" comment="" copyright="" nodeid="node4" heading="-138" latitude="-23.63126693" longitude="-46.69922243" altitude="734.00">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="inf" x="nan" y="nan" x_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="inf" x="nan" y="nan" x_floorplan_percent="inf"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundalpha="1" wordwrap="1" height="20" border="1" enabled="1" borderalpha="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" textalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot pan="-3.92" skinid="ht_node" target="0.0/0.0/70.0" title="COZINHA" description="" distance="1.93842" url="{node3}" id="Point01" tilt="2.79"/>
+      <hotspot pan="-170.39" skinid="ht_node" target="" title="ENTRADA" description="" distance="0.88635" url="{node6}" id="Point02" tilt="-5.14"/>
+    </hotspots>
+    <media>
+      <sound pan="-210.740" nodechangekeep="0" mode="2" loop="-1" level="1.000" field="90.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000" id="Element01" tilt="10.680" tiltsize="10.000">
+        <source url="media/Audio2Começo.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" blendtime="1" zoomoutpause="1" softedge="0" zoomout="0" blendcolor="0x000000" enabled="1" zoomafteroutfov="20" zoomspeed="2" zoomin="0" zoomfov="20" type="crossdissolve"/>
+    <autorotate speed="0.200" startloaded="0" returntohorizon="0.000" nodefilter="" enabled="1" nodedelay="0.00" delay="8.00" useanimation="0" noderandom="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" rubberband="0" simulatemass="1" hideabout="1" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" lockedmouse="0" invertwheel="0" lockedwheel="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input width="1520" height="1520" levelbias="0.400" leveltilesize="3048" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="1520" height="1520" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-404" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata info="" customnodeid="" tags="Fotos 360|Térreo" title="ENTRADA" description="" author="" source="" datetime="2023:04:08 10:28:09" comment="" copyright="" nodeid="node6" heading="-404" latitude="-23.63125923" longitude="-46.69922018" altitude="738.00">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="inf" x="nan" y="nan" x_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="inf" x="nan" y="nan" x_floorplan_percent="inf"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundalpha="1" wordwrap="1" height="20" border="1" enabled="1" borderalpha="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" textalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot pan="-25.89" skinid="ht_node" target="0.0/0.0/70.0" title="BANHEIRO" description="" distance="2.23011" url="{node7}" id="Point01" tilt="-0.02"/>
+      <hotspot pan="-265.85" skinid="ht_node" target="0.0/0.0/70.0" title="PASSO ENTRADA" description="" distance="0.88635" url="{node4}" id="Point02" tilt="-2.87"/>
+    </hotspots>
+    <media>
+      <sound pan="-210.740" nodechangekeep="0" mode="2" loop="-1" level="1.000" field="90.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000" id="Element01" tilt="10.680" tiltsize="10.000">
+        <source url="media/Audio2Começo.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" blendtime="1" zoomoutpause="1" softedge="0" zoomout="0" blendcolor="0x000000" enabled="1" zoomafteroutfov="20" zoomspeed="2" zoomin="0" zoomfov="20" type="crossdissolve"/>
+    <autorotate speed="0.200" startloaded="0" returntohorizon="0.000" nodefilter="" enabled="1" nodedelay="0.00" delay="8.00" useanimation="0" noderandom="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" rubberband="0" simulatemass="1" hideabout="1" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" lockedmouse="0" invertwheel="0" lockedwheel="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input width="1520" height="1520" levelbias="0.400" leveltilesize="3048" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="1520" height="1520" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-324" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata info="" customnodeid="" tags="Fotos 360|Térreo" title="BANHEIRO" description="" author="" source="" datetime="2023:04:08 10:31:39" comment="" copyright="" nodeid="node7" heading="-324" latitude="-23.63123949" longitude="-46.69922405" altitude="738.00">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="inf" x="nan" y="nan" x_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="inf" x="nan" y="nan" x_floorplan_percent="inf"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" textcolor="0x000000" backgroundalpha="1" wordwrap="1" height="20" border="1" enabled="1" borderalpha="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" textalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot pan="-163.48" skinid="ht_node" target="-179.9/-8.6/70.0" title="ENTRADA" description="" distance="2.23011" url="{node6}" id="Point01" tilt="-7.41"/>
+      <hotspot pan="-137.17" skinid="ht_url" target="_blank" title="" description="" url="" id="Point02" tilt="-2.02"/>
+    </hotspots>
+    <media>
+      <sound pan="-210.740" nodechangekeep="0" mode="2" loop="-1" level="1.000" field="90.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000" id="Element01" tilt="10.680" tiltsize="10.000">
+        <source url="media/Audio2Começo.mp3"/>
+      </sound>
+      <sound pan="-20.390" nodechangekeep="0" mode="2" loop="-1" level="0.300" field="90.000" pansize="10.000" startmutedmobile="0" ambientlevel="0.000" id="Audio3" tilt="22.670" tiltsize="10.000">
+        <source url="media/Half Mystery.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" blendtime="1" zoomoutpause="1" softedge="0" zoomout="0" blendcolor="0x000000" enabled="1" zoomafteroutfov="20" zoomspeed="2" zoomin="0" zoomfov="20" type="crossdissolve"/>
+    <autorotate speed="0.200" startloaded="0" returntohorizon="0.000" nodefilter="" enabled="1" nodedelay="0.00" delay="8.00" useanimation="0" noderandom="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" dblclickfullscreen="0" rubberband="0" simulatemass="1" hideabout="1" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" lockedmouse="0" invertwheel="0" lockedwheel="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata info="" customnodeid="" tags="" title="" description="" author="" source="" datetime="" comment="" copyright="" nodeid="master" heading="0" latitude="" longitude=""/>
+  </masternode>
+  <map width="0" tileformat="png" zoomlevels="1" height="0" title="Planta Térreo" bgcolor="rgba(204, 204, 204, 0)" floorplannorth="322.67" type="file" id="FloorPlan01" transparent="1"/>
+  <map title="" mapstyle="streets" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapprovider="openstreetmap" mapmaxzoom="18" type="web" id="Map01"/>
+  <map width="0" tileformat="png" zoomlevels="1" height="0" title="" bgcolor="rgba(255, 255, 255, 0)" floorplannorth="326" type="file" id="FloorPlan02" transparent="1"/>
+</tour>
